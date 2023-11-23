@@ -1,0 +1,4 @@
+__pycache__/
+.env
+model_resnet.tflite
+model1_nomer.tflite
